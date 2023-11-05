@@ -1,1 +1,4 @@
 config.py
+check-api.py
+update_currency_rates.py
+main
